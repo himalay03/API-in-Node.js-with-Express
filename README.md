@@ -29,7 +29,9 @@ This is a simple project which shows how an API is created in Node.js using Expr
 
 To create an API in Node.js with Express, you will need to follow these basic steps:
 1. Install Express: Use the npm package manager to install the Express module in your project directory by running the following command in the terminal:
-npm install express
+```bash
+ npm install express
+```
 2. Set up the server: Create a new Node.js file and import the Express module into it. Then, create an instance of the Express application and set it up to listen for incoming requests on a port of your choice using the listen() method.
 3. Create API routes: Define routes for your API by using the Express get(), post(), put(), or delete() methods. These routes will determine what actions your API will perform and how it will respond to client requests.
 4. Test the API: Test your API using a tool like Postman or a web browser to make requests to the routes you defined. You should see the responses you defined in your route handlers.
