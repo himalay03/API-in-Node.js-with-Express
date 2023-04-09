@@ -39,9 +39,9 @@ To create an API in Node.js with Express, you will need to follow these basic st
 
 ## Tech Stack
 
-- Express module,
-- fs module,
-- Nodemon,
+- Express module
+- fs module
+- Nodemon
 
 
 ## 🛠 Skills
